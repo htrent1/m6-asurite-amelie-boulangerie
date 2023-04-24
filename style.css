@@ -75,7 +75,7 @@ main img {
 }
 
 main p, ul {
-    display: block;
+    display: inline-block;
     width: 50%;
 }
 
