@@ -65,6 +65,10 @@ nav > li:first-child {
     background-color: #f28095;
 }
 
+nav a:hover {
+    background-color: #f28095;
+}
+
 main {
     color: #542c1b;
     padding-bottom: 16px;
