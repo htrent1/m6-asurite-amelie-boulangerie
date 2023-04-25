@@ -62,7 +62,7 @@ nav a {
     font-weight: bold;
 }
 
-nav:nth-child(1) {
+a:nth-child(1) {
     background-color: #f28095;
 }
 
