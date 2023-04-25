@@ -62,9 +62,9 @@ nav a {
     font-weight: bold;
 }
 
-#firstlink {
+nav li a:first-child {
     background-color: #f28095;
-}
+  }
 
 nav a:hover {
     background-color: #f28095;
