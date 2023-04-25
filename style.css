@@ -62,7 +62,7 @@ nav a {
     font-weight: bold;
 }
 
-.nav li:nth-child(1) {
+a:first-of-type {
     background-color: #f28095;
 }
 
