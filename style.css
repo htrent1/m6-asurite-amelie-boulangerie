@@ -10,13 +10,13 @@ body {
 
 header, footer {
     width: 1000px;
-    margin: auto;
+    text-align: center;
 }
 
 header {
     height: 150px;
     color: white;
-    background-image: url("/bowl.jpg");
+    background-image: url("/images/bowl.jpg");
 }
 
 h1 {
@@ -27,7 +27,7 @@ h1 {
 
 #grid-container {
     width: 1000px;
-    margin: auto;
+    text-align: center;
     background-color: #fdfdfd;
     display: grid;
     grid-template-columns: 184px 1fr;
