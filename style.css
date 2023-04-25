@@ -62,7 +62,7 @@ nav a {
     font-weight: bold;
 }
 
-nav > li:first-child > a {
+.nav > li:first-of-type > a {
     background-color: #f28095;
 }
 
