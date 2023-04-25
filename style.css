@@ -63,7 +63,7 @@ nav a {
     font-weight: bold;
 }
 
-nav ul li a:first-child {
+nav ul li #firstlink {
     background-color: #f28095;
   }
 
