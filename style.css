@@ -17,7 +17,7 @@ header {
     height: 150px;
     background-color: #141a1a;
     color: white;
-    background-image: url("C:\Users\table\OneDrive\Documents\School\git215\m6\m6-asurite-amelie-boulangerie/bowl.jpg");
+    background-image: url("/bowl.jpg");
 }
 
 h1 {
@@ -61,7 +61,7 @@ nav a {
     font-weight: bold;
 }
 
-nav > li:first-child {
+.nav > li:first-child a {
     background-color: #f28095;
 }
 
