@@ -21,7 +21,6 @@ header {
 }
 
 h1 {
-    height: 150px;
     padding-top: 50px;
     padding-left: 32px;
 }
@@ -38,6 +37,7 @@ h1 {
 nav {
     width: 200px;
     margin-top: 16px;
+    /*150px was not displaying properly on my browser. */ 
 }
 
 nav li {
